@@ -11,4 +11,4 @@ hello[(3,4) (7,9)]
 An important note: Word position and line number start at 0.
 
 "word" is the first word on the first line of the input.txt file. 
-and "hello" appears on the 4th line as the 5th word (3,4) and on the 8th line as the 10th word (7,9).
+"hello" appears on the 4th line as the 5th word (3,4) and on the 8th line as the 10th word (7,9).
